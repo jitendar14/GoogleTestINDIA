@@ -8,6 +8,7 @@ public class testtesttest {
 	public void setup() {
 		
 		System.out.println("TestTestTest");
+		System.out.println("Selenium");
 		
 	}
 	
